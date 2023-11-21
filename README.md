@@ -7,4 +7,7 @@
 # Практическая работа 3
 [Symbolic mathematics with sympy](https://github.com/WYSTANich/PDA_sol-/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb) 
 
-[Linear_algebra_with_Numpy](https://github.com/WYSTANich/PDA_sol-/blob/main/02_Linear_algebra_with_Numpy.ipynb)
+[Linear_algebra_with_Numpy](https://github.com/WYSTANich/PDA_sol-/blob/main/02_Linear_algebra_with_Numpy.ipynb) 
+
+[Решение задач линейной алгебры в библиотеке SCIPY](https://github.com/WYSTANich/PDA_sol-/blob/main/scipy_page_13.ipynb)
+
