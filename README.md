@@ -5,4 +5,4 @@
 # Работа 2
 [Самостоятельная работа 2](Самостоятельная%20работа%202.ipynb)
 # Практическая работа 3
-[01_Symbolic_mathematics_with_Sympy.ipynb]. (01_Symbolic_mathematics_with_Sympy.ipynb)
+[01_Symbolic_mathematics_with_Sympy.ipynb].(01_Symbolic_mathematics_with_Sympy.ipynb)
