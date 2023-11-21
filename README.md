@@ -5,4 +5,4 @@
 # Работа 2
 [Самостоятельная работа 2](Самостоятельная%20работа%202.ipynb)
 # Практическая работа 3
-[01_Symbolic_mathematics_with_Sympy.ipynb] (https://github.com/WYSTANich/PDA_sol-/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb)https://github.com/WYSTANich/PDA_sol-/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb)
+[Самостоятельная работа 2](https://github.com/WYSTANich/PDA_sol-/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb)
